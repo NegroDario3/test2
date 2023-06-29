@@ -1,0 +1,10 @@
+{
+    "OrderId" : 12345,
+    "Address" : "Rafael Obligado S/N",
+    "Status" : "Estado",
+    "Articles" : [
+        {"Name" : "Producto"},
+        {"Quantity" : 2},
+        {"Dangeorus" : false}
+    ]
+}
